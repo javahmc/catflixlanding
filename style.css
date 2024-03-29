@@ -22,14 +22,6 @@ body {
     position: relative;
 }
 
-body {
-  margin: auto;
-  width: 640px; 
-  padding: 50px;
-  font-family: 'Poppins', sans-serif; 
-  color: #33475b;    
-      }
-
 img{
   padding: 10px; 
 }
